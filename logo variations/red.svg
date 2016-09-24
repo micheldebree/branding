@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   width="600"
+   height="600"
+   version="1.0"
+   sodipodi:docname="M.svg"
+   inkscape:export-filename="/Users/michel/Dropbox/My Graphics/micheldebree.nl/M600.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title4321">Isometric Cube</title>
+  <desc
+     id="desc4323">Shaded drawing of a cube using isometric projection pseudo-perspective.</desc>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Isometric Cube</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <marker
+       id="arrow_end"
+       viewBox="0 0 10 10"
+       refX="0"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="3"
+       markerHeight="10"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 z"
+         id="path4328"
+         inkscape:connector-curvature="0"
+         style="fill:#ff0000;stroke:none" />
+    </marker>
+    <marker
+       id="arrow_start"
+       viewBox="-10 -10 10 10"
+       refX="0"
+       refY="-5"
+       markerUnits="strokeWidth"
+       markerWidth="3"
+       markerHeight="10"
+       orient="auto">
+      <path
+         d="M 0,0 10,5 0,10 z"
+         transform="scale(-1,-1)"
+         id="path4331"
+         inkscape:connector-curvature="0"
+         style="fill:#ff0000;stroke:none" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="1001"
+     inkscape:window-width="1673"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1"
+     inkscape:cx="337.89628"
+     inkscape:cy="202.14364"
+     inkscape:window-x="7"
+     inkscape:window-y="23"
+     inkscape:current-layer="svg2"
+     showgrid="true"
+     inkscape:window-maximized="0"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-path-mask="true"
+     objecttolerance="10000"
+     guidetolerance="10000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4356"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px"
+       originx="0px"
+       originy="2px" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Circle"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ffff;fill-opacity:0.58823529;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3004"
+       sodipodi:cx="300"
+       sodipodi:cy="298"
+       sodipodi:rx="300"
+       sodipodi:ry="300"
+       d="m 600,298 a 300,300 0 1 1 -600,0 300,300 0 1 1 600,0 z" />
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:2.49690127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 191.47408,52.40039 -109.91939,62.5479 0,369.55389 109.91939,62.93941 108.4694,-62.93941 109.64368,62.93941 108.85815,-62.93941 -0.26367,-369.55389 -108.59448,-62.5479 -109.64368,62.5479 z"
+     id="path2242-8-4"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.49690127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeSpeed"
+     d="m 518.10858,114.94829 -218.1651,122.24584 0,125.68095 -108.4694,-64.81895 0,249.38546 108.4694,-62.93941 0,-121.50226 109.64368,-64.94379 0,249.38546 108.52142,-62.93941 z"
+     id="path4867-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+</svg>
